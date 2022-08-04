@@ -1,0 +1,71 @@
+body h1{
+  font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 3rem;
+  line-height: 2.5rem;
+}
+.customLine{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #000;
+    border-radius: 1rem;
+    border-color: #000 !important;
+    align-self: center;
+}
+.deviders{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.star{
+  font-size: 2rem;
+  color: #000;
+}
+.img{
+  max-width: 100%;
+  border-radius: 5%;
+  cursor: pointer;
+}
+.lightboxContainer{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0,0,0,0.5);
+  z-index: 20;
+}
+.lightboxItem{
+  width: 70%;
+  background-size: 100% 100%;
+  border-radius: 0.75rem;
+}
+.lightboxItem img{
+  max-width:50%;
+}
+.fa-times-circle{
+  margin: 3px;
+  top: 0;
+  right: 0;
+}
+#close{
+  cursor: pointer;
+  font-size: 3rem;
+    line-height: 3rem;
+    color: #1abc9c;
+    opacity: 1;
+    right: 1.5rem;
+    top: 1rem;
+}
+#h1color{
+  color: #2c3e50;
+}
+.lightimg{
+  border-radius: 0.75rem;
+}
+.button , .button:hover {
+  color: #fff;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}

@@ -1,0 +1,35 @@
+h1{
+    font-weight: 700;
+    font-size: 4rem;
+    line-height: 3.5rem;
+}
+#main{
+    background-color: #1abc9c !important ;
+    padding-top: 120px;
+}
+.customLine{
+    width: 100%;
+    max-width: 7rem;
+    height: 0.25rem;
+    background-color: #fff;
+    border-radius: 1rem;
+    border-color: #fff !important;
+    justify-content: center;
+    align-self: center;
+}
+.headerIMG{
+    max-width: 20%;
+}
+.deviders{
+    margin: 1.25rem 0 1.5rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.star{
+  font-size: 2rem;
+}
+#text{
+  font-size: 1.5rem;
+}
