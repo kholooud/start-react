@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kholooud/start-react.git/static/css/main.e81f0339.css",
-    "main.js": "/kholooud/start-react.git/static/js/main.278a6c32.js",
-    "static/media/fa-solid-900.ttf": "/kholooud/start-react.git/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
-    "static/media/fa-brands-400.ttf": "/kholooud/start-react.git/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
-    "static/media/fa-solid-900.woff2": "/kholooud/start-react.git/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
-    "static/media/fa-brands-400.woff2": "/kholooud/start-react.git/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
-    "static/media/fa-regular-400.ttf": "/kholooud/start-react.git/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
-    "static/media/cabin.png": "/kholooud/start-react.git/static/media/cabin.4417330275f78faa31c3.png",
-    "static/media/circus.png": "/kholooud/start-react.git/static/media/circus.494a4a914b5471b41f3e.png",
-    "static/media/t.png": "/kholooud/start-react.git/static/media/t.c0bc7d0b97fa8387bee7.png",
-    "static/media/game.png": "/kholooud/start-react.git/static/media/game.a940b57aa7bab2eacc52.png",
-    "static/media/submarine.png": "/kholooud/start-react.git/static/media/submarine.48c9704ca7f8ce901038.png",
-    "static/media/fa-regular-400.woff2": "/kholooud/start-react.git/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
-    "static/media/safe.png": "/kholooud/start-react.git/static/media/safe.01792c0bdc342bf4bf9c.png",
-    "static/media/cake.png": "/kholooud/start-react.git/static/media/cake.6554473016d32b343f02.png",
-    "static/media/avataaars.svg": "/kholooud/start-react.git/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
-    "static/media/fa-v4compatibility.ttf": "/kholooud/start-react.git/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
-    "static/media/fa-v4compatibility.woff2": "/kholooud/start-react.git/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
-    "index.html": "/kholooud/start-react.git/index.html",
-    "main.e81f0339.css.map": "/kholooud/start-react.git/static/css/main.e81f0339.css.map",
-    "main.278a6c32.js.map": "/kholooud/start-react.git/static/js/main.278a6c32.js.map"
+    "main.css": "/start-react/static/css/main.eb861a65.css",
+    "main.js": "/start-react/static/js/main.42e89d15.js",
+    "static/media/fa-solid-900.ttf": "/start-react/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/start-react/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/start-react/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/start-react/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/fa-regular-400.ttf": "/start-react/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/cabin.png": "/start-react/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/start-react/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/t.png": "/start-react/static/media/t.c0bc7d0b97fa8387bee7.png",
+    "static/media/game.png": "/start-react/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/start-react/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/fa-regular-400.woff2": "/start-react/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/safe.png": "/start-react/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/start-react/static/media/cake.6554473016d32b343f02.png",
+    "static/media/avataaars.svg": "/start-react/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/start-react/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/fa-v4compatibility.woff2": "/start-react/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "index.html": "/start-react/index.html",
+    "main.eb861a65.css.map": "/start-react/static/css/main.eb861a65.css.map",
+    "main.42e89d15.js.map": "/start-react/static/js/main.42e89d15.js.map"
   },
   "entrypoints": [
-    "static/css/main.e81f0339.css",
-    "static/js/main.278a6c32.js"
+    "static/css/main.eb861a65.css",
+    "static/js/main.42e89d15.js"
   ]
 }
