@@ -2,7 +2,7 @@
   "name": "app1",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/kholooud/start-react.git",
+  "homepage": "https://github.com/kholooud",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.1",
     "@testing-library/jest-dom": "^5.16.4",
